@@ -1,0 +1,13 @@
+{
+  "versions": [
+    {
+      "version": "0.1.1",
+      "minecraft": "1.20.1",
+      "loader": "forge",
+      "download_url": "https://github.com/your-org/RequiredMod/releases/download/v0.1.1/requiredmod-0.1.1.jar",
+      "sha256": "<sha256>",
+      "changelog": "Fixes + performance improvements",
+      "release_page": "https://github.com/your-org/RequiredMod/releases/tag/v0.1.1"
+    }
+  ]
+}
