@@ -40,10 +40,10 @@ private static final String UPDATE_MANIFEST_URL = "https://raw.githubusercontent
 
 ## Запуск
 ```bash
-./gradlew runClient
+gradlew runClient
 ```
 
 ## Сборка
 ```bash
-./gradlew build
+gradlew build
 ```
